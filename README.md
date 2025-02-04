@@ -1,5 +1,5 @@
-# Hello World!, I'm Gagan, a Indian Web Developer 👋🏼:
-🛜 currently working on my own My portfolio<br>👨🏼‍🎓 studying computer science engineering k<br>👨🏼‍💻 Learning web development since 2024 
+# Hello World!, I'm Gagan, a Indian Full Stack Web Developer 👋🏼:
+🛜 currently working on my own My portfolio<br>👨🏼‍🎓 studying computer science engineering <br>👨🏼‍💻 Learning web development since 2024 
 
 
 
